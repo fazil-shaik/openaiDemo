@@ -12,7 +12,7 @@ A small Python project that demonstrates how to call the OpenAI Chat Completions
 1. Open a terminal in the project folder:
 
    ```bash
-   cd /Users/shaik/Desktop/Demos/openaicheck
+   cd /yourlocationProject
    ```
 
 2. Create and activate a virtual environment:
@@ -32,7 +32,7 @@ A small Python project that demonstrates how to call the OpenAI Chat Completions
 4. Set your API key:
 
    ```bash
-   export OPENAI_API_KEY="your_api_key_here"
+   export OPENAI_API_KEY="your_api_key_here" or Store in .env
    ```
 
 ## Run the script
