@@ -62,3 +62,6 @@ The app will print:
 - a comparison of responses at `temperature=0.2`, `0.7`, and `1.2`
 
 You can edit the prompt or system message directly in `main.py` to experiment with different behaviors.
+
+## Project URL:
+https://roadmap.sh/projects/openai-api-python
